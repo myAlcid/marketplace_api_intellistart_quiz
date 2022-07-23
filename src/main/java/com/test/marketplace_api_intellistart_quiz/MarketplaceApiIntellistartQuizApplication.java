@@ -9,5 +9,4 @@ public class MarketplaceApiIntellistartQuizApplication {
     public static void main(String[] args) {
         SpringApplication.run(MarketplaceApiIntellistartQuizApplication.class, args);
     }
-
 }
